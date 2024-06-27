@@ -3,6 +3,8 @@
 A 2D action-adventure video game set in space where you need to fight aliens as they appear, and battle various bosses and hordes across a total of 4 levels. 
 Made with Pygame.
 
+While you play, you will get guns, upgrades and utilities by searchig for them and killing enemies. Some of them are necesary to keep progressing on the game.
+
 ## Controls
 
 ### Keyboard:
