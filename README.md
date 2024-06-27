@@ -26,6 +26,15 @@ Made with Pygame.
 - **L1/R1**: Dash
 - **D-Pad**: Navigate menus
 
+# Preview
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="ImagesReadme/Lvl1_Enemies.png" alt="Lvl1_Enemies" width="49%"/>
+  <img src="ImagesReadme/Lvl2_Enemies.png" alt="Lvl2_Enemies" width="49%"/>
+  <img src="ImagesReadme/Lvl3_Enemies.png" alt="Lvl3_Enemies" width="49%"/>
+  <img src="ImagesReadme/Lvl4_Boss.png" alt="Lvl4_Boss" width="49%"/>
+</div>
+
 ## Contributors
 - **Juan Villaverde Rodriguez**: [GitHub](https://github.com/JuanVillaverdeRodriguez)
 - **Oscar Castillo Fernandez**: [GitHub](https://github.com/oscar-castillo)
